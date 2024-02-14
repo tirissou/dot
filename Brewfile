@@ -27,7 +27,7 @@ brew 'fzf'
 # Apps
 # cask 'docker'
 # cask 'firefox'
-# cask 'raycast'
 cask 'karabiner-elements'
+cask 'raycast'
 # cask 'slack'
 # cask 'zoom'
