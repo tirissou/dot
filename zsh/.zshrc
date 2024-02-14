@@ -58,7 +58,7 @@ zinit snippet OMZ::plugins/git/git.plugin.zsh
 # zinit snippet OMZ::plugins/docker/_docker
 # Docker
 zinit ice svn
-zinit snippet PZT::modules/docker
+# zinit snippet PZT::modules/docker
 # Python
 # zinit ice svn silent wait"!0"
 # zinit snippet PZT::modules/python

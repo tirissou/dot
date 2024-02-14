@@ -1,6 +1,7 @@
 config=$HOME/.config
 
 # quick configurations
+alias cf="$HOME/.config"
 alias cfterm="$EDITOR $HOME/.config/alacritty/alacritty.yml"
 alias cfa="$EDITOR $ZDOTDIR/alias.zsh"
 alias cfz="$EDITOR -O $ZDOTDIR/.zshrc $ZDOTDIR/.zshenv"
