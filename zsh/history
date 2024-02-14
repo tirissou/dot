@@ -1,0 +1,30 @@
+ls
+cf
+cd
+cd .config
+ls
+cd zsh
+ls
+ls
+git pull
+ls
+..
+ls
+vim Brewfile
+/usr/bin/vim Brewfile
+./fresh.sh
+vim 
+/usr/bin/vim Brewfile
+./fresh.sh
+vim fresh.sh
+gs
+vim .gitignore
+vim .gitignore_global
+vim .gitignore_global
+gs
+vim 
+ls
+vim .gitignore_global
+gs
+ga .gitignore
+ga Brewfile README.md fresh.sh zsh/
