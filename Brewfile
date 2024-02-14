@@ -2,6 +2,7 @@
 tap 'homebrew/cask-fonts'
 tap 'homebrew/cask-versions'
 tap 'homebrew/bundle'
+tap 'koekeishiya/formulae'
 
 # Binaries
 brew 'awscli'
@@ -16,6 +17,8 @@ brew 'pkg-config' # https://github.com/driesvints/dotfiles/issues/20
 brew 'svn' # Needed to install fonts
 brew 'nvim'
 brew 'tmux'
+brew 'yabai'
+brew 'skhd'
 
 # Apps
 # cask 'docker'
