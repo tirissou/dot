@@ -19,6 +19,10 @@ brew 'nvim'
 brew 'tmux'
 brew 'yabai'
 brew 'skhd'
+brew 'direnv'
+brew 'rustup'
+brew 'rustup-init'
+brew 'fzf'
 
 # Apps
 # cask 'docker'

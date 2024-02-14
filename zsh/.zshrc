@@ -44,7 +44,6 @@ SAVEHIST=100000
 bindkey -v
 
 source $ZDOTDIR/alias.zsh
-source $ZDOTDIR/shortcuts.zsh
 
 setopt incappendhistory autocd extendedglob
 # source $ZDOTDIR/zinit/bin/zinit.zsh
